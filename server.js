@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 import * as dotenv from "dotenv";
 import postRoutes from "./routes/posts.js";
 
-//40:16 in youtube video
+//50:40 in youtube video
 
 dotenv.config();
 const port = process.env.PORT;
